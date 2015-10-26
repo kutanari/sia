@@ -1,2 +1,1 @@
-# sia
-sistem informasi akademik
+Realtime Sistem Informasi Akademik Universitas Sumatera Utara

@@ -1,0 +1,6 @@
+/**
+ * @author Fery Putra Tarigan <kutanaridesain@gmail.com>
+ * @link http://kutanari.com, http://kutanaridesain.com
+ * @since 2015
+ * @license MIT License
+ */
